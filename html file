@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solanki Dhaba</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <div class="container">
+
+        <header>
+            <div class="navContainer">
+            <nav>
+                <ul id = "navList">
+                    <li>
+                        <p id = "navlogo">Solanki Exports</p>
+                    </li>
+                    <li>
+                        <div id = "navItems" >
+                            <a href="#">Home</a>
+                            <a href="#">Contact</a>
+                            <a href="#">About</a>
+                        </div>
+                    </li>
+                    </li>
+                
+
+                </ul>
+            </nav>
+        </div>
+        </header>
+
+        <main>
+            <div class="contentBox">
+            <!--item 1-->
+            <section>
+                <div class="item">
+                    <div class="leftBox">
+                        <!--heading-->
+                        <div>
+                            <h2> Mercedes </h2>
+                            <h2>Components </h2>
+                        <ul>
+                            <li>motor</li>
+                            <li>windshield</li>
+                            <li>oil</li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                            <h2>Models</h2>
+                        <ol>
+                            <li>Lorem ipsum dolor sit amet.</li>
+                            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae cumque atque ut odit dolore cum adipisci vel error natus saepe!
+                            </li>
+                            <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto voluptatibus praesentium explicabo labore. Autem cupiditate tempore ducimus voluptas architecto harum porro hic, qui, animi assumenda vel adipisci quibusdam officiis maiores expedita, voluptatibus quam perspiciatis magnam minus sapiente enim labore fugiat at. Quos commodi quod quo odit. Suscipit magni dolore eveniet!
+                            </li>
+                        </ol>
+                        </div>
+
+                        <div>
+                            <h2>BMW</h2>
+                            <h2>Motors</h2>
+
+                            <ul>
+                                <li>Small Refrigerator</li>
+                                <li>Powerfull Loundspeaker</li>
+                                <li>Nitro</li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <h2>Models</h2>
+
+                            <ul>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, culpa eius voluptate pariatur quae natus tempore laudantium sequi atque nobis?</li>
+                                <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi natus dolorem impedit aperiam odit commodi, ad est sint? Velit excepturi quod molestiae corrupti eveniet? Minima obcaecati amet labore natus eligendi.</li>
+                                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto tenetur similique rem mollitia officia esse ducimus magnam nam expedita culpa veritatis aut libero saepe aliquid rerum ipsa, nobis quaerat voluptate alias magni. Deserunt minus tempore debitis quod esse vel nam.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class = "rightBox">
+                        <div class="img-container">
+                            <img src="mercedes-3528323_1280.jpg" alt="">
+                            <div class="overlay">
+                                <span>Click here to buy</span>
+                            </div>
+                        </div>
+
+                        <div class="img-container">
+                            <img src="R.jpg" alt="">
+                            <div class="overlay">
+                                <span>Click here to buy</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            </div>
+        </main>
+
+        <footer>
+            <div class ="footerBox">
+                Copyright &copy; Solanki Exports Pvt Ltd 2026 All Rights Reserved;
+            </div>
+        </footer>
+
+    </div>
+</body>
+</html>
